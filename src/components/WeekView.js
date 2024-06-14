@@ -40,7 +40,7 @@ const WeekView = () => {
       </div>
       <div className="d-grid gap-2 col-6 mx-auto mt-5">
         <button className="btn btn-primary btn1" type="button">
-          <Link to="/" style={{color:"black"}}>Back to Home</Link>
+          <Link to="/React-habitTracker" style={{color:"black"}}>Back to Home</Link>
         </button>
       </div>
     </>

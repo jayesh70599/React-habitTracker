@@ -9,7 +9,7 @@ const App = () => {
   return (
     <>
     <Routes>
-      <Route path="/" element={<Home/>}/>
+      <Route path="/React-habitTracker" element={<Home/>}/>
       <Route path="/week-view" element={<WeekView/>}/>
     </Routes>
     </>
