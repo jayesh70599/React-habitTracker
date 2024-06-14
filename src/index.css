@@ -86,6 +86,7 @@ body {
 .habit-left{
   display: flex;
   align-items: center;
+  margin-left: 30px;
 }
 .habit-left i{
   color: #2AA8D0;
